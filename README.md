@@ -19,5 +19,5 @@ Hola, soy estudiante de 3er semestre de Ingeniería en Mecatrónica en la Univer
 - **Descripción:** Ejercicios prácticos de lógica de programación, diagramas de flujo y resolución de problemas algorítmicos.
 
 ---
-📧 **Contacto:** [tu.nuevo.correo.profesional@gmail.com](mailto:tu.nuevo.correo.profesional@gmail.com)  
-🔗 **LinkedIn:** linkedin.com/in/tu-perfil
+📧 **Contacto:** [bryan.perez.ec@gmail.com](mailto:bryan.perez.ec@gmail.com)  
+🔗 **LinkedIn:** www.linkedin.com/in/bryan-david-pérez-león-036a32260
